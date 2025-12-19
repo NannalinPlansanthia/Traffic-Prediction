@@ -18,6 +18,8 @@ Description
 3. Vehicles - Number of vehicles
 4. ID - Unique id
 ## Result
+/assets/images/sarima-forecast.png
+
 | Metrics | SARIMA | Holt-Winter's | Prophet |
 | :---:|:---:|:---:|:---:|
 | RMSE|19.2464|51.3292|9.4667|
