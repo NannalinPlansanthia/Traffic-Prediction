@@ -18,8 +18,12 @@ Description
 3. Vehicles - Number of vehicles
 4. ID - Unique id
 ## Result
-/assets/images/sarima-forecast.png
-
+SARIMA Model
+<img width="1218" height="528" alt="image" src="https://github.com/user-attachments/assets/7bc91d77-c039-419d-8aed-e55324c24119" />
+Multiplicative Holt-Winter's Model
+<img width="1218" height="528" alt="image" src="https://github.com/user-attachments/assets/01028cf5-b4b8-428f-8a19-54bb4478d498" />
+Prophet Model
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a8cc142d-12ae-498e-b4d0-f0a4a5b10cdc" />
 | Metrics | SARIMA | Holt-Winter's | Prophet |
 | :---:|:---:|:---:|:---:|
 | RMSE|19.2464|51.3292|9.4667|
