@@ -33,7 +33,8 @@ Prophet Model
 The Prophet model is the most suitable for this dataset. It captures detailed seasonal patterns and holiday effects, facilitating a deeper understanding of the traffic volume over time. Furthermore, it outperforms both SARIMA and the multiplicative Holt-Winters model while requiring significantly less computational time and data preprocessing.
 
 <img width="889" height="1190" alt="image" src="https://github.com/user-attachments/assets/d3d3da3b-5338-4568-8503-cb2f7fe393b6" />
-There are two types of seasonality which are daily and hourly seasonality. It shows that congestion surges on Tuesday and bottom out on Sunday. The number of cars starts to soar in 7:00 AM. Subsequently, the traffic volume reaches it peaks approximately 10:30 AM. Then, it slightly fluctuates between 1:00 AM and 8.30 PM. The volumes drop at midnight. Finally, holidays affect the number of vehicles on the road and tend to reduce traffic congestion. 
+
+There are two types of seasonality which are daily and hourly seasonality. It shows that congestion surges on Tuesday and bottom out on Sunday. The number of cars starts to soar in 7:00 AM. Subsequently, the traffic volume reaches it peaks approximately 10:30 AM. Then, it slightly fluctuates between 1:00 AM and 8.30 PM. The volume steadily drops at midnight. Finally, holidays affect the number of vehicles within the junction, which tend to reduce traffic congestion. 
 
 ## References
 1. Agarwal, A. (2004).  Weekend travel behavior is expected to be substantially different from the weekday travel behavior for difference in several spatial and temporal constraints. (Graduate dissertation, University of South Florida)
